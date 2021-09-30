@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectTDD
+/ProjectTDD.Dominio/bin/Debug/net5.0
+/ProjectTDD.Dominio/obj
+/ProjectTDD.DominioTest/bin/Debug/net5.0
+/ProjectTDD.DominioTest/obj
